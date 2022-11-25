@@ -2,7 +2,7 @@
 
 //target to inject into
 
-#define TARGET "EliteDangerous64.exe"
+#define TARGET ""
 
 //symbol file to read from
 
